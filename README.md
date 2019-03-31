@@ -1,8 +1,10 @@
 # Multiple_Upload_Gallery_Django
 Upload Multiple files in django
+<br>
 
-The File is in zip due to large size. Download zip file to view the project.
-The video is stored in video folder.
+The File is in zip due to large size. Download zip file to view the project.<br>
+
+The video is stored in video folder.<br>
 
 # To Run
 Follow the following steps
